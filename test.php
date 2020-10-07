@@ -1,2 +1,2 @@
 <?php
-echo "Welcome test";
+echo "Welcome test project";
